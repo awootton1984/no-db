@@ -1,0 +1,10 @@
+.title {
+    color: red;
+   width: fit-content;
+    border: 5px solid darkblue;
+    margin: 0 auto;
+    font-size: 80px;
+}
+.container {
+    display: flex;
+}
